@@ -51,5 +51,11 @@ Maka Output nya Akan Seperti Ini :
 
 **GAMBAR FLOWCHART**
 
+![gambar 6](screenshot/ss6.png)
+
+Sekian tutorial kali ini.
+Sampai ketemu di Tutorial berikutnya.
+
+Wassalamualaikum wr.wb.
 
 
